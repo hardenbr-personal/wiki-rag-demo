@@ -2,4 +2,4 @@ chroma_db/
 rag-env/ 
 __pycache__/ 
 *.pyc 
-.env 
+.env.txt 
